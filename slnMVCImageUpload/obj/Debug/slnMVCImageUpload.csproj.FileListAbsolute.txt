@@ -1,0 +1,85 @@
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll.config
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.pdb
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Infrastructure.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.xml
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.csprojResolveAssemblyReference.cache
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.dll
+E:\IRT\Quiz_online\sample\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.pdb
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll.config
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.pdb
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Infrastructure.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.xml
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.csprojResolveAssemblyReference.cache
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.dll
+E:\Technology Crowds\blog-list\MVC-Jquery-Image-Upload\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.pdb
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll.config
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\slnMVCImageUpload.pdb
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\Newtonsoft.Json.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Net.Http.Formatting.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Helpers.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Http.WebHost.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Mvc.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.Razor.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Deployment.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\bin\System.Web.WebPages.Razor.xml
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.csproj.CoreCompileInputs.cache
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.csproj.CopyComplete
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.dll
+C:\Misc\MVC-Image-Upload\slnMVCImageUpload\slnMVCImageUpload\obj\Debug\slnMVCImageUpload.pdb

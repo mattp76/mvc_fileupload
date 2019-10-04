@@ -1,0 +1,101 @@
+﻿@model slnMVCImageUpload.Models.FormModel
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<head>
+    <title>Upload Image</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <style>
+
+        img {
+            border: 0;
+        }
+
+        #Preview, #UploadedPreview {
+            height: 100px;
+            width: 100px;
+            display: block;
+            border: 1px solid #dedede;
+            margin-bottom: 20px;
+            maUprgin-top: 20px;
+            border-radius: 50%;
+        }
+
+        button {
+            background: #2e8aea;
+            color: #ffffff;
+            font-size: 12px;
+            text-transform: uppercase;
+            display: flex;
+            padding: 5px 15px;
+            border: none;
+            bottom: 10px;
+            right: 10px;
+            align-self: flex-start;
+        }
+    </style>
+
+
+</head>
+<h2>MVC Image Upload</h2>
+
+@*<input type="file" id="uploadEditorImage" />*@
+<input type="file" id="Img" accept="image/*" /> <br /><br />
+New File Name: <input type="text" id="txtImg" size="50" /> <br /><br />
+<img id="Preview" />
+
+
+@using (Html.BeginForm("UploadForm", "UploadForm", FormMethod.Post, new { name = "frm", id = "frm" }))
+{
+    //Html.HiddenFor(m => m.UploadedImageName, new { @id = "UploadedImageName" });
+
+    <input type="hidden" id="uploadedImageName" name="UploadedImageName" />
+    <button type="button" id="Upload"> Upload form </button>
+}
+
+
+@*<img id="UploadedPreview" height="200" width="200" />*@
+
+<script>
+
+    $("#Img").change(function (event) {
+        var output = document.getElementById('Preview');
+        output.src = URL.createObjectURL(event.target.files[0]);
+    });
+
+
+    $("#Upload").click(function () {
+        var data = new FormData();
+        var files = $("#Img").get(0).files;
+        if (files.length > 0) {
+            data.append("MyImages", files[0]);
+        }
+
+        $.ajax({
+            url: "/UploadImage/UploadFile",
+            type: "POST",
+            processData: false,
+            contentType: false,
+            data: data,
+            success: function (response) {
+                //code after success
+                $("#txtImg").val(response);
+                $("#uploadedImageName").val(response);
+                $("#UploadedPreview").attr('src', '/Upload/' + response);
+                $("#frm").submit();
+
+            },
+            error: function (er) {
+                alert(er);
+            }
+
+        });
+    });
+
+
+</script>
